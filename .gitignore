@@ -7,3 +7,4 @@ dist/
 target/
 .env.local
 .env
+backend.zip
